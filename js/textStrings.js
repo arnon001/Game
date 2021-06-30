@@ -375,13 +375,13 @@ var textStrings_HE = {
 
 	// (credits0001.png)
 	"createdBy": ":נכתב ע\"י",
-	"NickyCase": "Nicky Case",
+	"ArnonHacohen": "ארנון הכהן",
 
 	// (credits0002.png)
 	"manyThanks": " :תודה רבה לבודקים",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": ":תודה רבה לתומכים בפטריאון",
+	"patreonSupporters": "אנשים מוזרים שהגיעו עם התמונה...",
 
 	// (credits0007.png)
 	"lastButNotLeast": "...ואחרונים חביבים",
@@ -409,7 +409,7 @@ var textStrings_HE = {
 	"WSOTATOTSU": ".אנחנו מעצבים את הכלים שלנו, והם מעצבים אותנו בחזרה",
 
 	// (quote0003.png)
-	"MarshallMcLuhan": "Marshall McLuhan",
+	"MarshallMcLuhan": "מרשל מקלוהן",
 
 	// (quote0004.png)
 	"misatrributed": "(!עם קצת התאמות)",
