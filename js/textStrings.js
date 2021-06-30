@@ -393,8 +393,6 @@ var textStrings_HE = {
 	"playButton": "!התחל משחק",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "עבודות אחרות שלי",
-	"buyCoffeeButton": "קנה לי קפה",
 	"replayButton": "התחל משחק מחדש",
 
 	// (logo.png) Post Credits
