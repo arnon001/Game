@@ -168,7 +168,7 @@ var textStrings_HE = {
 	"ArnonHacohen": "ארנון הכהן",
 
 	// (credits0002.png)
-	"manyThanks": " :תודה רבה לבודקים",
+	"manyThanks": "אנשים שתרמו לפרויקט",
 
 	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "אנשים מוזרים שהגיעו עם התמונה...",
